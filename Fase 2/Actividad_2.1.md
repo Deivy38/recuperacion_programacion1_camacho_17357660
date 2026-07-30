@@ -1,4 +1,4 @@
-**Actividad 2.1 Tabla de derupacion del codigo erroneo**
+**Actividad 2.1 Tabla de depuracion del codigo erroneo**
 
 | # | Línea | Error encontrado | Tipo (sintaxis/lógico) | Corrección |
 |---|---|---|---|---|

@@ -1,3 +1,5 @@
+# Actividad 2.2 Programa de ordenamiento por insercion
+
 def ordenar_insercion(arreglo):
     for indice in range(1, len(arreglo)):
         valor_actual = arreglo[indice]
