@@ -1,0 +1,5 @@
+INT-001,PC,disponible
+INT-002,Impresora,en mantenimiento
+INT-003,Laptop,disponible
+INT-004,Proyector,en mantenimiento
+INT-005,Tablet,disponible
