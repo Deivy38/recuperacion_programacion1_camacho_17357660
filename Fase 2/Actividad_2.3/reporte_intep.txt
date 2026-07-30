@@ -1,0 +1,5 @@
+REPORTE DE ESTADO DE EQUIPOS - INTEP
+====================================
+Total de equipos analizados: 5
+- Equipos disponibles: 3
+- Equipos en mantenimiento: 2
